@@ -1,0 +1,14 @@
+﻿  matrixExp.cpp
+C:\Users\Omri\source\repos\matrixExp\matrixExp\matrixExp.cpp(65,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Omri\source\repos\matrixExp\matrixExp\matrixExp.cpp(180,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omri\source\repos\matrixExp\matrixExp\matrixExp.cpp(181,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omri\source\repos\matrixExp\matrixExp\matrixExp.cpp(196,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omri\source\repos\matrixExp\matrixExp\matrixExp.cpp(234,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omri\source\repos\matrixExp\matrixExp\matrixExp.cpp(469,28): warning C4244: 'return': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Omri\source\repos\matrixExp\matrixExp\matrixExp.cpp(479,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omri\source\repos\matrixExp\matrixExp\matrixExp.cpp(480,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  matrixExp.vcxproj -> C:\Users\Omri\source\repos\matrixExp\Debug\matrixExp.exe
